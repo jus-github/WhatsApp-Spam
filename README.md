@@ -17,7 +17,11 @@ pip install selenium
 How to Use?
 
 python whatsapp.py -c "Contact Name" -m "Message To Send" -t "Count of Messages"
+
+
 Arguments: -h, --help show this help message and exit -c C Enter the Contact name to be spammed -m M Message to spam -t T Number of times to spam
 
+
 Use Carefully 😜
+
 Only for Educational purposes!
